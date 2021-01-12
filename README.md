@@ -3,13 +3,13 @@
 ## hosted on : https://sachasmets.be
 
 # included Features
-## HTTPS
+### HTTPS
 * [Cloudflare](https://www.cloudflare.com/)
-## Registratie & Aanmelden
+### Registratie & Aanmelden
 * Laravel Jetstream
-## Maatregelen tegen courante aanvallen
+### Maatregelen tegen courante aanvallen
 * Laravel Framework
-## Maatregelen tegen typische web vulnerabilities
+### Maatregelen tegen typische web vulnerabilities
 * Laravel Framework
 
 # Framework

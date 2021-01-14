@@ -32,12 +32,15 @@
             <!-- Page Content -->
             <main>
                 {{ $slot }}
-		@include('cookieConsent::index')
+		
             </main>
         </div>
 
         @stack('modals')
 
         @livewireScripts
+        <div class="cookieconsent">
+            @include('cookieConsent::index')
+        </div>
     </body>
 </html>

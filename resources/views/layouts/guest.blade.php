@@ -19,7 +19,10 @@
     <body>
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
-	    @include('cookieConsent::index')
+	    
+        </div>
+        <div class="cookieconsent">
+            @include('cookieConsent::index')
         </div>
     </body>
 </html>

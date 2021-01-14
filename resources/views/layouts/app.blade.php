@@ -32,6 +32,7 @@
             <!-- Page Content -->
             <main>
                 {{ $slot }}
+		@include('cookieConsent::index')
             </main>
         </div>
 

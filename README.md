@@ -16,9 +16,10 @@
 * [laravel](https://laravel.com/)
 # Extra installed packages
 * [Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
+* [pwned-validator](https://github.com/valorin/pwned-validator)
+* [cookie consent](https://github.com/spatie/laravel-cookie-consent)
 
 # TO DO
 * privacy verklaring
-* cookie Consent
 * Uitoefenen van rechten
 * verwerkings register

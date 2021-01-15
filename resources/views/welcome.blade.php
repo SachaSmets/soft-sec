@@ -45,6 +45,7 @@
                             <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 underline">Register</a>
                         @endif
                     @endif
+                    <a href="pdf/privacy_statement_SachaSmets.pdf" class="text-sm text-gray-700 underline">privacy verklaring</a>
                 </div>
             @endif
 

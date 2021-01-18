@@ -29,6 +29,7 @@ return [
         'script-src' => [
             'self',
             'unsafe-inline',
+            'unsafe-eval',
         ],
     ],
 ];

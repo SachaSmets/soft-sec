@@ -17,20 +17,6 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
-        <style>
-            .cookieconsent {
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-            background: rgb(77,166,255);
-            padding: 0.5%;
-            text-align: center;
-            }
-            button {
-            background-color: transparent;
-            background-image: none;
-            }
-        </style>
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
@@ -53,8 +39,5 @@
         @stack('modals')
 
         @livewireScripts
-        <div class="cookieconsent">
-            @include('cookieConsent::index')
-        </div>
     </body>
 </html>

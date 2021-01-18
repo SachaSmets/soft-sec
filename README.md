@@ -18,7 +18,7 @@
 * [Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
 * [pwned-validator](https://github.com/valorin/pwned-validator)
 * [cookie consent](https://github.com/spatie/laravel-cookie-consent)
-* [csp](https://github.com/spatie/laravel-csp)
+* [secure headers](https://github.com/mikefrancis/laravel-secureheaders)
 
 # TO DO
 * privacy verklaring
